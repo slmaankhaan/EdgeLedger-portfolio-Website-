@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f74c2030-55e5-4e09-8332-88a203157ab7" name="Default Changelist" comment="">
+    <list default="true" id="f74c2030-55e5-4e09-8332-88a203157ab7" name="Default Changelist" comment="Showcase completed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -58,12 +76,35 @@
       <workItem from="1601432625081" duration="424000" />
       <workItem from="1601563012851" duration="5023000" />
       <workItem from="1601738195950" duration="551000" />
-      <workItem from="1601738757364" duration="1868000" />
+      <workItem from="1601738757364" duration="3361000" />
     </task>
+    <task id="LOCAL-00001" summary="Showcase completed">
+      <created>1601740902245</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601740902245</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Showcase completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Showcase completed" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1134" height="253" key="GridCell.Tab.0.bottom" timestamp="1601581831011">
@@ -150,6 +191,10 @@
       <screen x="0" y="23" width="1440" height="801" />
     </state>
     <state x="342" y="60" key="SettingsEditor/0.23.1440.801@0.23.1440.801" timestamp="1601740836321" />
+    <state x="440" y="158" key="Vcs.Push.Dialog.v2" timestamp="1601740910837">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state x="440" y="158" key="Vcs.Push.Dialog.v2/0.23.1440.804@0.23.1440.804" timestamp="1601740910837" />
     <state x="694" y="141" width="672" height="678" key="search.everywhere.popup" timestamp="1601569345212">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
