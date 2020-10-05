@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f74c2030-55e5-4e09-8332-88a203157ab7" name="Default Changelist" comment="Section: Who We Are and Client (completed)">
+    <list default="true" id="f74c2030-55e5-4e09-8332-88a203157ab7" name="Default Changelist" comment="Section: Contact Form, Google Map and Footer (completed)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -78,7 +78,8 @@
       <workItem from="1601563012851" duration="5023000" />
       <workItem from="1601738195950" duration="551000" />
       <workItem from="1601738757364" duration="3972000" />
-      <workItem from="1601865008338" duration="4773000" />
+      <workItem from="1601865008338" duration="4865000" />
+      <workItem from="1601938182043" duration="993000" />
     </task>
     <task id="LOCAL-00001" summary="Showcase completed">
       <created>1601740902245</created>
@@ -101,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601867404738</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Section: Contact Form, Google Map and Footer (completed)">
+      <created>1601871928196</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1601871928196</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,7 +131,8 @@
     <MESSAGE value="Showcase completed" />
     <MESSAGE value="Section: What We Do (completed)" />
     <MESSAGE value="Section: Who We Are and Client (completed)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Section: Who We Are and Client (completed)" />
+    <MESSAGE value="Section: Contact Form, Google Map and Footer (completed)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Section: Contact Form, Google Map and Footer (completed)" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1134" height="253" key="GridCell.Tab.0.bottom" timestamp="1601581831011">
@@ -210,12 +219,12 @@
       <screen x="0" y="23" width="1440" height="801" />
     </state>
     <state x="342" y="60" key="SettingsEditor/0.23.1440.801@0.23.1440.801" timestamp="1601740836321" />
-    <state x="2222" y="260" key="Vcs.Push.Dialog.v2" timestamp="1601867410009">
+    <state x="2222" y="260" key="Vcs.Push.Dialog.v2" timestamp="1601871931452">
       <screen x="1440" y="23" width="2560" height="1417" />
     </state>
     <state x="440" y="157" key="Vcs.Push.Dialog.v2/0.23.1440.801@0.23.1440.801" timestamp="1601742809624" />
     <state x="440" y="158" key="Vcs.Push.Dialog.v2/0.23.1440.804@0.23.1440.804" timestamp="1601740910837" />
-    <state x="2222" y="260" key="Vcs.Push.Dialog.v2/1440.23.2560.1417/0.23.1440.797@1440.23.2560.1417" timestamp="1601867410009" />
+    <state x="2222" y="260" key="Vcs.Push.Dialog.v2/1440.23.2560.1417/0.23.1440.797@1440.23.2560.1417" timestamp="1601871931452" />
     <state x="694" y="141" width="672" height="678" key="search.everywhere.popup" timestamp="1601569345212">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
