@@ -19,11 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f74c2030-55e5-4e09-8332-88a203157ab7" name="Default Changelist" comment="Section: Contact Form, Google Map and Footer (completed)">
+    <list default="true" id="f74c2030-55e5-4e09-8332-88a203157ab7" name="Default Changelist" comment="Jquery Implementation Completed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mobile.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mobile.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/widescreen.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/widescreen.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +79,7 @@
       <workItem from="1601738195950" duration="551000" />
       <workItem from="1601738757364" duration="3972000" />
       <workItem from="1601865008338" duration="4865000" />
-      <workItem from="1601938182043" duration="993000" />
+      <workItem from="1601938182043" duration="3826000" />
     </task>
     <task id="LOCAL-00001" summary="Showcase completed">
       <created>1601740902245</created>
@@ -109,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601871928196</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Jquery Implementation Completed">
+      <created>1601939491588</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1601939491588</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,7 +139,8 @@
     <MESSAGE value="Section: What We Do (completed)" />
     <MESSAGE value="Section: Who We Are and Client (completed)" />
     <MESSAGE value="Section: Contact Form, Google Map and Footer (completed)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Section: Contact Form, Google Map and Footer (completed)" />
+    <MESSAGE value="Jquery Implementation Completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Jquery Implementation Completed" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1134" height="253" key="GridCell.Tab.0.bottom" timestamp="1601581831011">
@@ -219,9 +227,10 @@
       <screen x="0" y="23" width="1440" height="801" />
     </state>
     <state x="342" y="60" key="SettingsEditor/0.23.1440.801@0.23.1440.801" timestamp="1601740836321" />
-    <state x="2222" y="260" key="Vcs.Push.Dialog.v2" timestamp="1601871931452">
-      <screen x="1440" y="23" width="2560" height="1417" />
+    <state x="440" y="156" key="Vcs.Push.Dialog.v2" timestamp="1601939495100">
+      <screen x="0" y="23" width="1440" height="797" />
     </state>
+    <state x="440" y="156" key="Vcs.Push.Dialog.v2/0.23.1440.797@0.23.1440.797" timestamp="1601939495100" />
     <state x="440" y="157" key="Vcs.Push.Dialog.v2/0.23.1440.801@0.23.1440.801" timestamp="1601742809624" />
     <state x="440" y="158" key="Vcs.Push.Dialog.v2/0.23.1440.804@0.23.1440.804" timestamp="1601740910837" />
     <state x="2222" y="260" key="Vcs.Push.Dialog.v2/1440.23.2560.1417/0.23.1440.797@1440.23.2560.1417" timestamp="1601871931452" />
